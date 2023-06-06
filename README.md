@@ -7,6 +7,6 @@ Projede Yapilmasi Istenen Isterler Hakkinda:
 3. Oyun basladiginda kullanicida 3 silah hakki olacaktir. Bunlar led isikla gosterilecektir. Kullanildiginda sayi 1 azalacak ve buna gore ledlerden biri sonecektir. Hak tekrar kazanildiginda buna gore led yanacaktir. 3 adet led kullanilmasi beklenmektedir. Atis yapabilmek icin ekstra buton kullanilacaktir. 
 4. Kullanicin haklari led isiklarla ayni sekilde gosterilecektir. Uzay araci engele carpip can kaybettiginde otomatik olarak 3 saniye engele carpsa bile 2.kere can kaybetmeyecektir. Can hakki kazandiginda led isikta artma olacaktir. Bu ledler silah hakkindaki ledlerden haric tasarlanmalidir. Ayrica uzay araci engele carptiginda buzzer kullanilarak uyari verilecektir. 
 5. Oyuncunun tum haklari bittiginde sistem tekrar ana menuye donecektir. 
-6. 6. Oyuncu her satir atladiginda skor puani 1 artacaktir ve skor puani 7 segment display ile gosterilmelidir. Skor tablosu icin 3 adet 7 segment display bulunmalidir. 
-7. 7. Arduino LDR isik sensoru kullanilarak oyun ortaminin renk degistirmesi beklenmektedir. LDR isik sensorunden alinan verilere gore oyundaki siyah beyaz renk dagilimi degistirilecektir. 
+6. Oyuncu her satir atladiginda skor puani 1 artacaktir ve skor puani 7 segment display ile gosterilmelidir. Skor tablosu icin 3 adet 7 segment display bulunmalidir. 
+7. Arduino LDR isik sensoru kullanilarak oyun ortaminin renk degistirmesi beklenmektedir. LDR isik sensorunden alinan verilere gore oyundaki siyah beyaz renk dagilimi degistirilecektir. 
 8. Rastgele olusturulan nesneler icin farkli sekiller belirlenecektir. Buna imkan saglayacak bir OLED ekran kullanilmasi beklenmektedir. SSD1306 gibi ekranlar tercih edilebilir.
